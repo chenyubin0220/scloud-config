@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: s1
+
+spring:
+  profiles:
+    active: test
+  application:
+    name: s1
