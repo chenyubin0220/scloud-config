@@ -8,4 +8,4 @@ spring:
   profiles:
     active: test
   application:
-    name: s1
+    name: s2
